@@ -16,7 +16,7 @@ h2{
   font-size: 20px;
 }
 .home{
-  background-image: url(../assets/assets/backgrounds/h_img.jpg);
+  background-image: url(../assets/backgrounds/h_img.jpg);
   color: white;
   text-align: center;
   background-repeat: no-repeat;
@@ -32,7 +32,7 @@ h2{
 }
 .services{
   color: white;
-  background-image: url(../assets/assets/backgrounds/s_image.jpg);
+  background-image: url(../assets/backgrounds/s_image.jpg);
   background-repeat: no-repeat;
   text-align: center;
   height: 50vh;
@@ -101,7 +101,7 @@ h2{
   margin-bottom: 3%;
 }
 .contact-us{
-  background-image: url(../assets/assets/backgrounds/c_image.jpg);
+  background-image: url(../assets/backgrounds/c_image.jpg);
   background-size: cover;
   color: white;
   margin-top: 3%;
